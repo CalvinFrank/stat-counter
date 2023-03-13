@@ -1,3 +1,10 @@
 body {
   margin: 0;
 }
+.sCHolder {
+  display: flex;
+}
+.sC {
+  margin: 0;
+  font-size: calc(100vw / 8.031);
+}
